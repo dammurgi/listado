@@ -1,7 +1,7 @@
 Este documento será la primera toma de contacto con Git.
 Cada participante deberá:
 - Clonar en su repositorio local, este repositorio que sólo contiene el documento actual.
-- Añadir su nombre de usuario github en el siguiente listado, en orden alfabético.
+- Añadir su nombre de usuario github en el siguiente listado, en orden alfabético. (cada usuario en una nueva línea)
 - Mezclar su repositorio local con el repositorio remoto.
 
 
