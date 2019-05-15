@@ -8,4 +8,8 @@ Cada participante deberá:
 Los participantes son:
 
 gmesquivel
+<<<<<<< HEAD
 jgutierrez19
+=======
+lmassanet
+>>>>>>> 75514a44c75d68d2d2f944f74fac7f7bb33784ec
