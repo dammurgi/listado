@@ -1,0 +1,28 @@
+Este documento será modificado con Git.
+Cada participante deberá:
+- Clonar en su repositorio local, este repositorio que sólo contiene el documento actual.
+- Añadir su nombre de usuario, en orden alfabético INVERSO.
+- Mezclar su repositorio local con el repositorio remoto.
+
+
+Los participantes son:
+
+The-Kaos99
+mrodriguezs19
+mrodriguezm
+mrios19
+mhidalgo19
+mcaparros
+lmassanet
+igonzalez19
+jgutierrez19
+jjimenez19
+hkhellou
+hbeddouka
+gmesquivel
+ebocanegra
+azamudio19
+aortega19
+amolina99
+achaves19
+abasso19
